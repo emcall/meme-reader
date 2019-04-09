@@ -9,13 +9,19 @@ Character lists:
 - "Small Caps"
 
 Character list TODOs:
+- Everything listed on this page: http://qaz.wtf/u/convert.cgi
 - Emojis
--  Everything listed on this page: http://qaz.wtf/u/convert.cgi
+- Zalgo
 
 Functionality TODOs:
-
-- Alter UI to make it automatic instead of requiring a button press
 - Handle dynamic loading of new tweets as they happen
 - Handle single tweets, replies, notifications
 - Handle usernames
-- Translate ASCII art into text describing the image
+
+UI Options TODOs:
+- Allow user to choose if the script runs automatically on page load, is triggered by a button press, or triggered by a key press
+- Toggle options for translating each individual font set
+- Ability to add additional fonts for translation
+
+Stretch Goal:
+- Translate ASCII memes (such as "in this house", "bunny holding sign", "cup of tea") into a message describing the meme
